@@ -1,17 +1,8 @@
-## XG Boost Regression Implementation for Used Car Price Prediction
+## Principal Component Analysis (PCA) Implementation in Breast Cancer Dataset
 
 
 ### Subjects & Challenges:
-- This dataset is a valuable resource for automotive enthusiasts, buyers, and researchers interested in analyzing trends, making informed purchasing decisions, or conducting studies related to the automotive industry and consumer preferences. Whether you are a data analyst, car buyer, or researcher, this dataset offers a wealth of information to explore and analyze.
-- The used car market in India is a dynamic and ever-changing landscape. Prices can fluctuate wildly based on a variety of factors including the make and model of the car, its mileage, its condition, and the current market conditions. As a result, it can be difficult for sellers to price their cars accurately.
-- Handling Missing Values
-- Handling Duplicated
-- Check data type
-- Using One-Hot Encoder for categorical features
-- Using StandardScaler for numerical features
-- Understand the dataset
-- Hyperparameter Tuning
-- Remove Warning
+- 
 
 ### Setup Instructions
 
