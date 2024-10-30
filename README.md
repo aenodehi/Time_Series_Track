@@ -1,4 +1,4 @@
-## Random Forest Regression Implementation for Used Car Price Prediction
+## Adaboost Regression Implementation for Used Car Price Prediction
 
 
 ### Subjects & Challenges:
@@ -12,9 +12,6 @@
 - Understand the dataset
 - Hyperparameter Tuning
 - Remove Warning
-
-### Data Collection
-The dataset is collected from [Holiday package prediction dataset](https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction)
 
 ### Setup Instructions
 
