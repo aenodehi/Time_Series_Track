@@ -1,10 +1,9 @@
-## K Means Clustering Algorithm Immplementation with make_blobs datasets
+## HierarchicalClustering Implementation with iris datasets
 
 
 ### Subjects & Challenges:
 - Unsupervised Machine Learning
-- Plot elbow curve for finding the best WCSS
-- Validating k value with 'Kneelocator' & 'Silhoutte scoring'
+- *This method is for a variety of data while KMeans is for numerical data*
 
 ### Setup Instructions
 
