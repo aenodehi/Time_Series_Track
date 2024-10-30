@@ -1,4 +1,4 @@
-## Gradient Boost Regression Implementation for Used Car Price Prediction
+## XG Boost Regression Implementation for Used Car Price Prediction
 
 
 ### Subjects & Challenges:
