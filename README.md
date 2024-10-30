@@ -1,10 +1,9 @@
-## HierarchicalClustering Implementation with iris datasets
+## DBSCAN Clustering Implementation with make_moons dataset
 
 
 ### Subjects & Challenges:
 - Unsupervised Machine Learning
-- *This method is for a variety of data while KMeans is for numerical data*
-
+- 
 ### Setup Instructions
 
 #### 1. Clone the Repository
