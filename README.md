@@ -1,9 +1,13 @@
-## DBSCAN Clustering Implementation with make_moons dataset
+## Tokenization Practical
 
 
 ### Subjects & Challenges:
-- Unsupervised Machine Learning
-- 
+- Corpus-> Paragraph
+- Documents -> Sentence
+- Vocabulary -> Unique words
+- Words
+
+
 ### Setup Instructions
 
 #### 1. Clone the Repository
