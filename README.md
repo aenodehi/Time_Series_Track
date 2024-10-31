@@ -1,9 +1,10 @@
 ## Stemming And it's Types for Text Preprocessing 
 
 ### Subjects & Challenges:
-- Stemming is the process of reducing a word to its word stem that affixes to suffixes and prefixes or to the roots of words known as a lemma. Stemming is important in natural language understanding (NLU) and natural language processing (NLP).
-- NLTK has RegexpStemmer class with the help of which we can easily implement Regular Expression Stemmer algorithms. It basically takes a single regular expression and removes any prefix or suffix that matches the expression. Let us see an example
-- Snowball Stemmer is a stemming algorithm which is also known as the Porter2 stemming algorithm as it is a better version of the Porter Stemmer since some issues of it were fixed in this stemmer.
+- Lemmatization technique is like stemming. The output we will get after lemmatization is called ‘lemma’, which is a root word rather than root stem, the output of stemming. After lemmatization, we will be getting a valid word that means the same thing.
+- NLTK provides the **WordNetLemmatizer** class which is a thin wrapper around the wordnet corpus. This class uses the Morphy() function in the WordNet CorpusReader class to find a lemma
+- For paragraphs or big sentences, Lematizer takes time across Stemming
+- Usecases are Q&A, chatbots, text summarization
 - Corpus-> Paragraph
 - Documents -> Sentence
 - Vocabulary -> Unique words
