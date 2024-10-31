@@ -1,4 +1,4 @@
-## Parts of Speech Tagging with nltk
+## Named Entity Recognition
 
 ### Subjects & Challenges:
 - 
