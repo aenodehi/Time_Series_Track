@@ -1,4 +1,4 @@
-## Stemming And it's Types for Text Preprocessing 
+## Lemmatization- Text Preprocessing 
 
 ### Subjects & Challenges:
 - Lemmatization technique is like stemming. The output we will get after lemmatization is called ‘lemma’, which is a root word rather than root stem, the output of stemming. After lemmatization, we will be getting a valid word that means the same thing.
