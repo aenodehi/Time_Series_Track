@@ -1,7 +1,6 @@
-## Named Entity Recognition
+## Bag Of Words Practical Using NLTK
 
 ### Subjects & Challenges:
-- 
 - Corpus-> Paragraph
 - Documents -> Sentence
 - Vocabulary -> Unique words
