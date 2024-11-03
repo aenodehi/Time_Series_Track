@@ -1,10 +1,7 @@
-## Bag Of Words Practical Using NLTK
+## Time Series Track
 
 ### Subjects & Challenges:
-- Corpus-> Paragraph
-- Documents -> Sentence
-- Vocabulary -> Unique words
-- Words
+- 
 
 
 ### Setup Instructions
