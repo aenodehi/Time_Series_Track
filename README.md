@@ -20,3 +20,6 @@ Run the following command to build and start the services:
 ```bash
 docker-compose up -d
 ```
+If you have a permission problem, do this
+- sudo mkdir -p . (/path/to/your/host/directory)
+- sudo chown -R 1000:100 . (/path/to/your/host/directory)
